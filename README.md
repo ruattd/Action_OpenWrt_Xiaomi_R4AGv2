@@ -1,6 +1,6 @@
 # Fork of [MrTaiKe/Action_OpenWrt_Xiaomi_R4AGv2](https://github.com/MrTaiKe/Action_OpenWrt_Xiaomi_R4AGv2)
 
-This fork adds `kmod-tun` to package list, which depended by many routing apps (e.g. ZeroTier).
+This fork adds `kmod-tun` to package list, which is depended by many routing apps (e.g. ZeroTier).
 
 ## README from [upstream repository](https://github.com/MrTaiKe/Action_OpenWrt_Xiaomi_R4AGv2)
 
