@@ -57,7 +57,7 @@ jobs:
         sudo -E apt-get -qq install binutils bzip2 flex gawk grep libc-dev libz-dev perl python3.6+ rsync \
         subversion unzip build-essential clang flex g++ gawk gcc-multilib gettext git libncurses5-dev \
         libssl-dev python3-distutils rsync unzip zlib1g-dev ccache ecj fastjar file g++ java-propose-classpath \
-        libelf-dev libncursesw5-dev python python2.7-dev python3 wget python3-distutils-extra python3-setuptools \
+        libelf-dev libncursesw5-dev python2 python2.7-dev python3 wget python3-distutils-extra python3-setuptools \
         python3-dev swig time xsltproc fxload 
 
         sudo -E apt-get -qq autoremove --purge
